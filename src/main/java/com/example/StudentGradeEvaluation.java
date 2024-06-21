@@ -31,15 +31,15 @@ public class StudentGradeEvaluation {
         {
             System.out.println("grade A");
         }
-        else if(score>=80&&score<89)
+        else if(score>=80&&score<90)
         {
             System.out.println("grade B");
         }
-        else if (score>=70&&score<79)
+        else if (score>=70&&score<80)
         {
             System.out.println("grade c");
         }
-        else if (score>=60&&score<69)
+        else if (score>=60&&score<70)
         {
             System.out.println("grade D");
         }
